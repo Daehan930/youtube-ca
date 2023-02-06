@@ -21,9 +21,8 @@ function App() {
           </Link>
         </div>
         <ProgressBar />
-
       </div>
-
+{/* <div></div> */}
       <Routes>
         <Route exact path="/" element={<Home />}>
         </Route>
