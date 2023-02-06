@@ -19,8 +19,6 @@ function App() {
           <Link to="/">
           <img alt="" src={logo} width="40" heigth="40" className="logo" />
           </Link>
-          <button>1</button>
-          <button>2</button>
         </div>
         <ProgressBar />
 
