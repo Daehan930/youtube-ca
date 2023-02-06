@@ -1,0 +1,56 @@
+.video{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Neoeb';
+
+    img{
+        margin-top: 10px;
+        border-radius: 20px;
+
+    }
+    h3{
+        display: flex;
+        justify-content: center;
+        font-size: 1.3rem;
+        font-weight: bold;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        margin-left: 5px;
+        margin-right: 5px;
+
+    }
+    a{
+        text-decoration: none;
+        color: black;
+    }
+    a:hover{
+        color: #1c62b9;
+    }
+    p{
+        margin-top: 0;
+        margin-bottom: 10px;
+    }
+    border-bottom: 5px solid lightgrey;
+}
+.upload{
+    font-family: "Neobd";
+    font-size: 15px;
+    color: #606060;
+}
+
+.select{
+    margin: 70px;
+    display: flex;
+    justify-content: center;
+}
+.form-select{
+    max-width: 30%;
+    margin-top: 10px;
+    margin-right: 20px;
+}
+.badge{
+    max-height: 25px;
+    margin-left: 8px;
+}

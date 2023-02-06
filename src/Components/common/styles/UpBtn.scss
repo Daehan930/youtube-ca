@@ -1,0 +1,18 @@
+.up-btn {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    margin: 10px 20px 40px 10px;
+    width: 12%;
+    max-width: 100px;
+    height: 7%;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+
+    img {
+        width: 50%;
+        height: 50%;
+        border-radius: 100%;
+    }
+}
